@@ -1,3 +1,6 @@
+KMP算法:  https://www.cnblogs.com/ZuoAndFutureGirl/p/9028287.html
+
+
 void GetNextval(char* p, int next[])  
 {  
     int pLen = strlen(p);  
